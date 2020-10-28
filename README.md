@@ -21,5 +21,6 @@
 * [Docker Network Overview](my-notes/docker-03.md)
 * [Docker Network Namespace Introduction](my-notes/docker-04.md)
 * [Bridge Networking Deep Dive](my-notes/docker-05.md)
+* [Container Port Mapping in Bridge networking](my-notes/docker-06.md)
 
 ## 3. Kubernetes
