@@ -22,5 +22,18 @@
 * [Docker Network Namespace Introduction](my-notes/docker-04.md)
 * [Bridge Networking Deep Dive](my-notes/docker-05.md)
 * [Container Port Mapping in Bridge networking](my-notes/docker-06.md)
+* [Customize the docker0 bridge](my-notes/docker-07.md)
+* [Create a new bridge network and connect with container](my-notes/docker-08.md)
+* [Host Network Deep Dive](my-notes/docker-09.md)
+* [Multi-host networking with `Etcd`](my-notes/docker-10.md)
+* [Multi-host networking with `Open vSwitch`](my-notes/docker-11.md)
+* [Multi-host networking with `Calico`](my-notes/docker-12.md)
+* [Multi-host networking with `Flannel`](my-notes/docker-13.md)
+* [Multi-host networking with `Contiv`](my-notes/docker-14.md)
 
 ## 3. Kubernetes
+
+## References
+
+* [Network Namespaces Basics Explained in 15 Minutes](https://www.youtube.com/watch?v=j_UUnlVC2Ss&t=4s) YouTube.
+* [Container Network Interface (CNI) Explained in 7 Minutes](https://www.youtube.com/watch?v=l2BS_kuQxBA) YouTube.
